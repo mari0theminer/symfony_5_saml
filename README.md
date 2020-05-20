@@ -1,5 +1,4 @@
 
-Installation
 ------------
 
 Install with composer
@@ -14,7 +13,13 @@ Run composer update
 composer update mari0theminer/symfony_5_saml
 ```
 
-
+Enable the bundle in `app/AppKernel.php`
+``` php
+$bundles = array(
+    // ...
+    new Hslavich\OneloginSamlBundle\HslavichOneloginSamlBundle(),
+)
+```
 
 Configuration
 -------------
