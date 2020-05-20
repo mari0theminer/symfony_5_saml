@@ -22,7 +22,7 @@
         "phpunit/phpunit": "~5.7"
     },
     "autoload": {
-        "psr-4": { "Hslavich\\OneloginSamlBundle\\": "" },
+        "psr-4": { "mari0theminer\\symfony_5_saml\\": "" },
         "exclude-from-classmap": [
             "/Tests/"
         ]
