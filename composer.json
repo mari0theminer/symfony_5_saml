@@ -1,13 +1,13 @@
 {
-    "name": "mari0theminer/Symfony_5_saml",
+    "name": "mari0theminer/symfony_5_saml",
     "type": "symfony-bundle",
-    "description": "OneLogin SAML Bundle for Symfony2",
+    "description": "OneLogin SAML Bundle for Symfony5",
     "keywords": ["onelogin", "saml", "sso"],
     "license": "MIT",
     "authors": [
         {
-            "name": "hslavich",
-            "email": "hernan.slavich@gmail.com"
+            "name": "Mari0TheMiner",
+            "email": "mari0theminer@unir.wtf"
         }
     ],
     "require": {
